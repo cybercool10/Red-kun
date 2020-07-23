@@ -10,7 +10,7 @@
   "logo": "https://i.imgur.com/B470Uqu.png",
   "env": {
     "TOKEN": {
-      "description": "NzM1MzUyMjI5OTM0MTM3NDY0.XxfO2Q.IthwMtPKoxWi1pV4nKAbpdZsNC4"
+      "description": "Discord Bot Token"
     },
     "PREFIX": {
       "description": "The prefix with which you summon RedDiscord-Bot.",
